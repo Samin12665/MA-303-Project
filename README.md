@@ -1,7 +1,7 @@
 # MA303 Laplace Transform Calculator
 
 ## Project overview
-This project is a Python tool that computes **Laplace transforms** and **inverse Laplace transforms** for many standard symbolic expressions from differential equations. It was made for an MA303 coding project.
+This project is a Python tool that computes **Laplace transforms** and **inverse Laplace transforms** for many standard symbolic expressions from differential equations.
 
 The calculator allows a user to:
 - enter a function of `t` and compute its Laplace transform `F(s)`
